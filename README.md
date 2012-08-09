@@ -12,5 +12,6 @@ Third paramerer (optional): source language (auto, fr, de, it, ...). \"Auto\" de
 Example:<br>
 <ul>
     <li>trans \"hello world\" es en   -----> hola mundo</li>
-    <li>trans \"hello world\" es en   -----> hola mundo</li>
+    <li>trans \"hello world\" es      -----> hola mundo</li>
+    <li>trans \"hola mundo\"          -----> hello world</li>
 </ul>

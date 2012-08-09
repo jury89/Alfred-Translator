@@ -10,6 +10,7 @@ First parameter: phrase or word you want to translate enclosed in double quotes;
 Second parameter (optional): target language (en, fr, de, hu, ...). \"En\" default;<br>
 Third paramerer (optional): source language (auto, fr, de, it, ...). \"Auto\" default;<br>
 Example:<br>
-trans \"hello world\" es en<br>
-will output<br>
-hola mundo<br>
+<ul>
+    <li>trans \"hello world\" es en   -----> hola mundo</li>
+    <li>trans \"hello world\" es en   -----> hola mundo</li>
+</ul>

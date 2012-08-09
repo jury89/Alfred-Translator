@@ -11,7 +11,7 @@ Second parameter (optional): target language (en, fr, de, hu, ...). \"En\" defau
 Third paramerer (optional): source language (auto, fr, de, it, ...). \"Auto\" default;<br>
 Example:<br>
 <ul>
-    <li>trans \"hello world\" es en   -----> hola mundo</li>
-    <li>trans \"hello world\" es      -----> hola mundo</li>
-    <li>trans \"hola mundo\"          -----> hello world</li>
+    <li><strong>trans \"hello world\" es en</strong>   -----> hola mundo</li>
+    <li><strong>trans \"hello world\" es</strong>      -----> hola mundo</li>
+    <li><strong>trans \"hola mundo\"</strong>          -----> hello world</li>
 </ul>

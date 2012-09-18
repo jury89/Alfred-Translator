@@ -15,4 +15,4 @@ Example:<br>
     <li><strong>trans "hello world" es</strong>      -----> hola mundo</li>
     <li><strong>trans "hola mundo"</strong>          -----> hello world</li>
 </ul>
-<h5><a href="https://github.com/jury89/Alfred-Translator/blob/master/Translator.alfredextension?raw=true">DOWNLOAD ME NOW</a></h5>
+<h5><a href="https://github.com/jury89/Alfred-Translator/zipball/master">DOWNLOAD ME NOW</a></h5>
